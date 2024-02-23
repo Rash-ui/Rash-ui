@@ -1,1 +1,1 @@
-This is my first application
+print(This is my first application)
